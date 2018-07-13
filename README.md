@@ -5,3 +5,8 @@ Install:
 + node index.js
 
 (友情提示: 最好自己注册个新的账号，防止被封，另外爬的时候要温柔的爬)
+
+
++ npm install knex --save
+
++ npm install mysql
